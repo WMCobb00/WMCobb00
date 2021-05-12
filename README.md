@@ -18,7 +18,7 @@
 
 <p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api?username=WMCobb00&theme=dark&show_icons=false&hide=contribs,prs&line_height=20&hide_border=true" alt="My github stats"/>
 
-### Languages: <kbd><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/go/go-original.svg"/></kbd>  <kbd><img height="30" src="https://cdn.iconscout.com/icon/free/png-64/python-3521655-2945099.png"></kbd>  <kbd><img height="26" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg"></kbd>
+### Languages: <a href="https://golang.org/"><kbd><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/go/go-original.svg"/></kbd></a> <a href="https://www.python.org/"><kbd><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/python/python-original.svg"></kbd></a> <a href="https://www.java.com/en/"><kbd><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/java/java-original.svg"></kbd></a>
 ### Tools:
 ---
 </p>
