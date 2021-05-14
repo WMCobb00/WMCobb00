@@ -1,13 +1,13 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Billy!
+## Hey <img src="Resources/Gifs/Waving.gif" width="29px"> I'm Billy!
 
 <a href="https://www.linkedin.com/in/williamcobb00/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="Resources/SocialMedia/LinkedIn.svg"/>
 </a>
 <a href="https://twitter.com/bcobb00/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="24px" src="Resources/SocialMedia/Twitter.svg"/>
 </a>
 <a href="mailto:billycobb00@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="24px" src="Resources/SocialMedia/Gmail.svg" />
 </a></br>
 
 ### About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">
