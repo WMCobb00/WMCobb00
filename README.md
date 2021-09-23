@@ -3,9 +3,9 @@
 ### <b>Let's connect: </b><a href="https://www.linkedin.com/in/williamcobb00/" title="LinkedIn"> <kbd><img align="center" height="30px" width="30px" src="Resources/SocialMedia/LinkedIn.svg"/></kbd></a> <a href="mailto:billycobb00@gmail.com" title="Gmail"><kbd><img align="center" height="30px" width="30px" src="Resources/SocialMedia/Gmail.svg"/></kbd></a>
 
 ### <b>About me</b> <img src="Resources/Gifs/Developer.gif" width="40px">
-🎓 I'm a senior pursuing my Bachelors in Information Systems and Computer Science at Bridgewater State University.</br>
-💻 I'm currently searching for work! I have an interest in backend & API development as well as cyber & network security.</br>
-⚽️ I enjoy playing and watching almost all sports but especially soccer! 🟡Echte Liebe⚫️
+💻 Software Developer Apprentice</br>
+🎓 B.S. in Information Systems and Computer Science</br>
+⚽️ I enjoy playing and watching almost all sports but especially soccer 🟡Echte Liebe⚫️
  
 
 <p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api?username=WMCobb00&theme=dark&show_icons=false&hide=prs&line_height=20&hide_border=true" alt="My github stats"/>
