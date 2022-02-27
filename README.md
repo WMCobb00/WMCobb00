@@ -3,7 +3,7 @@
 ### <b>Let's connect: </b><a href="https://www.linkedin.com/in/williamcobb00/" title="LinkedIn"> <kbd><img align="center" height="30px" width="30px" src="Resources/SocialMedia/LinkedIn.svg"/></kbd></a> <a href="mailto:billycobb00@gmail.com" title="Gmail"><kbd><img align="center" height="30px" width="30px" src="Resources/SocialMedia/Gmail.svg"/></kbd></a>
 
 ### <b>About me</b> <img src="Resources/Gifs/Developer.gif" width="40px">
-💻 Software Developer Apprentice</br>
+💻 Software Engineer</br>
 🎓 B.S. in Information Systems and Computer Science</br>
 ⚽️ I enjoy playing and watching almost all sports but especially soccer 🟡Echte Liebe⚫️
  
